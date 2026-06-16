@@ -38,6 +38,11 @@
 
   /* nav height */
   --nav-height: 64px;
+
+
+  --sky-color: #007bff;
+  --link-color: var(--sky-color);
+  --link-hover-color: var(--sky-color);
 }
 
 /* fallback fonts */
@@ -301,7 +306,7 @@ main > .section {
 }
 
 main > .section > div {
-  max-width: 1200px;
+  max-width: 1440px;
   margin: auto;
   padding: 0 24px;
 }
